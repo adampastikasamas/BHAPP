@@ -13,3 +13,5 @@ st.header("Zeus", divider=True)
 st.header("Mahjong", divider=True)
 st.header("SpaceMan", divider=True)
 st.header("Bondito", divider=True)
+import streamlit as st
+st.image("sunrise.jpg", caption="Sunrise by the mountains")
