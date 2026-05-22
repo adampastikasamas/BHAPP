@@ -6,7 +6,7 @@ st.write(
 )
 import streamlit as st
 
-st.header("_Gabung Bang Jali :blue[pasti cuan] :sunglasses:")
+st.header("_Gabung Bang Jali :blue[pasti cuan] :money:")
 st.header("This is a header with a divider", divider="gray")
 st.header("These headers have rotating dividers", divider=True)
 st.header("One", divider=True)
