@@ -7,9 +7,9 @@ st.write(
 import streamlit as st
 
 st.header("_Gabung Bang Jali :blue[pasti cuan] :sunglasses:")
-st.header("This is a header with a divider", divider="gray")
-st.header("These headers have rotating dividers", divider=True)
-st.header("One", divider=True)
-st.header("Two", divider=True)
-st.header("Three", divider=True)
-st.header("Four", divider=True)
+st.header("Deposit pertama pasti GACOR", divider="gray")
+st.header("AYO CEPETAN GABUNG", divider=True)
+st.header("Zeus", divider=True)
+st.header("Mahjong", divider=True)
+st.header("SpaceMan", divider=True)
+st.header("Bondito", divider=True)
